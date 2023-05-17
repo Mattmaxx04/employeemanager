@@ -1,4 +1,4 @@
-# Control de emmpleados / Employee Manager
+# Control de empleados / Employee Manager
 
 
 [![](employeemanagerapp-master/employeemanagerapp-master/src/assets/control-empleados.svg)]()
