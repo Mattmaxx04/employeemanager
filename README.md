@@ -28,7 +28,7 @@ _*Frontend created under Angular v13.1.3._
 _*MySql database, managed under DBeaver._
 
  [![](employeemanagerapp-master/employeemanagerapp-master/src/assets/front1.png)]()
- [![]employeemanagerapp-master/employeemanagerapp-master/src/assets/modal.png)]()
- [![]employeemanagerapp-master/employeemanagerapp-master/src/assets/java.png)]() 
- [![]employeemanagerapp-master/employeemanagerapp-master/src/assets/db-empleados.png)]()
+ [![](employeemanagerapp-master/employeemanagerapp-master/src/assets/modal.png)]()
+ [![](employeemanagerapp-master/employeemanagerapp-master/src/assets/java.png)]() 
+ [![](employeemanagerapp-master/employeemanagerapp-master/src/assets/db-empleados.png)]()
  
