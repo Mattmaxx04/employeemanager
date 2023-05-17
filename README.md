@@ -5,15 +5,15 @@
 
 _Se realiza app web para carga de empleados_  
 
-_Cuenta con un buscador por texto, carga, actualización y eliminación de registros.  
+_*Cuenta con un buscador por texto, carga, actualización y eliminación de registros._ 
 
-_En cuanto a lo visual se utilizo técnica de Glassmorphism y efecto parallax.  
+_*En cuanto a lo visual se utilizo técnica de Glassmorphism y efecto parallax._  
 
-_Backend creado bajo java springboot v2.3.1.  
+_*Backend creado bajo java springboot v2.3.1._  
 
-_Frontend creado bajo Angular v13.1.3.  
+_*Frontend creado bajo Angular v13.1.3._  
 
-_Base de datos MySql, administrada bajo DBeaver.  
+_*Base de datos MySql, administrada bajo DBeaver._  
 
  [![](employeemanagerapp-master/employeemanagerapp-master/src/assets/front1.png)]()
  [![]employeemanagerapp-master/employeemanagerapp-master/src/assets/modal.png)]()
