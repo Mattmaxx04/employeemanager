@@ -3,7 +3,7 @@
 
 [![](employeemanagerapp-master/employeemanagerapp-master/src/assets/control-empleados.svg)]()
 
-_Se realiza app web para carga de empleados.  
+_Se realiza app web para carga de empleados_  
 
 _Cuenta con un buscador por texto, carga, actualización y eliminación de registros.  
 
